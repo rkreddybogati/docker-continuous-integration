@@ -1,4 +1,4 @@
-FROM JAVA:7
+FROM java:8
 COPY HelloWorld.java .
 RUN javac HelloWorld.java
 
