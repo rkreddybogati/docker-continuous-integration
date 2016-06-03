@@ -7,6 +7,8 @@ public class HelloWorld {
 		System.out.println(" Docker In Continous Integration. ");
  
 		System.out.println("Hello World. ");
+
+		System.out.println("Docker Automate Build number 1. ");
 	}
 }
 
